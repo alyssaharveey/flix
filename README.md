@@ -38,7 +38,7 @@ I ran into an issue where my poster images were incorrectly sized, but was able 
 
 ### App Walkthrough GIF!
 
-<img src="https://i.imgur.com/wTObyrE.gif" width=250><br>!
+<img src="https://i.imgur.com/wTObyrE.gif" width=250><br>
 
 
 ### Notes
